@@ -1,15 +1,15 @@
 ﻿<!DOCTYPE html>
-<!-- saved from url=(0025)https://emby.media/about/ -->
+<!-- saved from url=(0025)https://emby.media/terms/ -->
 <html prefix="og: http://ogp.me/ns#" class="no-touch" lang="en-US">
 <head itemscope itemtype="http://schema.org/Article">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
-    <title>Your Media, Your Way - Emby</title>
+    <title>Emby Premiere Terms of Service - Emby</title>
+    <meta name="description" content="Emby Premiere Terms of Service">
+    {SOCIALNETWORKS}
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-    <meta name="description" content="media server for personal streaming movies tv music photos in mobile app or browser for all devices android iOS windows phone appletv androidtv smarttv and dlna">
-    {SOCIALNETWORKS}
     <link rel="stylesheet" id="rs-plugin-settings-css" href="resources/settings.css" type="text/css" media="all">
     <style id="rs-plugin-settings-inline-css" type="text/css">
         .tp-caption a {
@@ -305,7 +305,6 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="shortcut icon" href="favicon.ico?v=3">
     <noscript>&lt;style&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;</noscript>
-    <style type="text/css"></style>
     <style>
         /** Ultimate: Media Responsive **/ @media (max-width: 1199px) {
         }
@@ -321,16 +320,13 @@
         /** Ultimate: Media Responsive - **/
     </style>
 </head>
-<body class="page page-id-5387 page-template-default l-body us-theme_zephyr_1-6 wpb-js-composer js-comp-ver-4.5.2 vc_responsive hasGoogleVoiceExt">
+<body class="page page-id-4971 page-template-default l-body us-theme_zephyr_1-6 wpb-js-composer js-comp-ver-4.5.2 vc_responsive hasGoogleVoiceExt">
     <!-- CANVAS -->
-    <div class="l-canvas type_wide col_cont headerlayout_extended headerpos_fixed headerbg_transparent">
-
+    <div class="l-canvas type_wide col_cont headerlayout_extended headerpos_fixed">
         <!-- HEADER -->
-        <div class="l-header transparent">
-
+        <div class="l-header">
             <div class="l-subheader at_top" style="line-height: 40px; height: 40px;">
                 <div class="l-subheader-h i-cf">
-
 
 
                     <div class="w-contacts">
@@ -340,13 +336,11 @@
 
 
 
-
                     {SOCIALICONS}
                 </div>
             </div>
             <div class="l-subheader at_middle" style="line-height: 100px;">
                 <div class="l-subheader-h i-widgets i-cf">
-
                     <div class="w-logo ">
                         <a class="w-logo-link" href="index.html">
                             <span class="w-logo-img">
@@ -355,7 +349,6 @@
                             <span class="w-logo-title"><strong>EMBY</strong></span>
                         </a>
                     </div>
-
 
 
 
@@ -383,12 +376,11 @@
                     </div>
 
 
-
                     <!-- NAV -->
                     <nav class="w-nav layout_hor animation_mdesign height_auto type_desktop">
                         <div class="w-nav-control"></div>
                         <ul class="w-nav-list level_1  hover_none" style="display: block;">
-                            <li id="menu-item-5390" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5387 current_page_item w-nav-item level_1 menu-item-5390"><a class="w-nav-anchor level_1" href="about.html"><span class="w-nav-title">ABOUT</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                            <li id="menu-item-5390" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-5390"><a class="w-nav-anchor level_1" href="about.html"><span class="w-nav-title">ABOUT</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
                             <li id="menu-item-4831" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-4831"><a class="w-nav-anchor level_1" href="blog.html"><span class="w-nav-title">BLOG</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
                             <li id="menu-item-5028" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-5028"><a class="w-nav-anchor level_1" href="download.html"><span class="w-nav-title">DOWNLOAD</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
                             <li id="menu-item-6279" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-6279"><a class="w-nav-anchor level_1" href="premiere.html"><span class="w-nav-title">EMBY PREMIERE</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
@@ -398,7 +390,6 @@
                     </nav><!-- /NAV -->
 
 
-
                 </div>
             </div>
 
@@ -406,253 +397,97 @@
         <!-- /HEADER -->
         <!-- MAIN -->
         <div class="l-main">
-            <div class="l-submain for_pagehead color_primary size_huge" style="padding-top: 140px;">
-                <div class="l-submain-img" style="background-image: url(resources/easy-share-Background.jpg);"></div><div class="l-submain-overlay" style="background-color: #111111; opacity: 0.40;"></div>		<div class="l-submain-h g-html i-cf">
+            <div class="l-submain for_pagehead color_alternate size_large" style="padding-top: 140px;">
+                <div class="l-submain-h g-html i-cf">
                     <div class="w-pagehead">
-                        <h1>Your Media, Your Way</h1>
-                        <p>Emby brings together your personal videos, music, photos, and live television.</p>
+                        <h1>Emby Terms of Service</h1>
+                        <!-- breadcrums -->
+                        <div class="g-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a class="g-breadcrumbs-item" rel="v:url" property="v:title" href="index.html">Home</a></span> <span class="g-breadcrumbs-separator"><i class="mdfi_navigation_chevron_right"></i></span> <span class="g-breadcrumbs-item">Emby Terms of Service</span></div>
                     </div>
                 </div>
             </div>
             <div class="l-submain wpb_row">
                 <div class="l-submain-h g-html i-cf">
-                    <div class="g-cols wpb_row offset_wide">
-                        <div class="full-width">
-                            <div class="g-cols wpb_row offset_wide">
-                                <div class="one-third animate_afb animate_start">
-                                    <div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #ff7043;border-color: #ff7043; color: #ffffff;">
-                                                <i class="mdfi_hardware_cast"></i>
-                                            </div><h4 class="w-iconbox-title">Your Media on Any Device</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Emby Server automatically converts and streams your personal media on the fly to play on any device.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div>
-                                </div><div class="one-third animate_afb d1 animate_start">
-                                    <div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="connect.html">
-                                            <div class="w-iconbox-icon" style="background-color: #80d8ff;border-color: #80d8ff; color: #ffffff;">
-                                                <i class="fa fa-globe"></i>
-                                            </div><h4 class="w-iconbox-title">Easy Access</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Emby Connect makes it easy to enjoy your personal media while away from home. Just sign in and play.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div>
-                                </div><div class="one-third animate_afb d2 animate_start">
-                                    <div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #7cb342;border-color: #7cb342; color: #ffffff;">
-                                                <i class="mdfi_device_dvr"></i>
-                                            </div><h4 class="w-iconbox-title">Live TV</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Stream Live TV to any device, manage your DVR, and enjoy your library of recordings.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div><div class="g-cols wpb_row offset_wide">
-                                <div class="one-third animate_afb animate_start">
-                                    <div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #ffca28;border-color: #ffca28; color: #ffffff;">
-                                                <i class="fa fa-refresh"></i>
-                                            </div><h4 class="w-iconbox-title">Mobile Sync</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Sync your personal media to smart phones and tablets for easy offline access. Automatically sync new content as you add it.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div><div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #41baae;border-color: #41baae; color: #ffffff;">
-                                                <i class="fa fa-home"></i>
-                                            </div><h4 class="w-iconbox-title">Manage Your Home</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Easily control content access for your children. Monitor and remote control their sessions as you need to.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div><div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #7e57c2;border-color: #7e57c2; color: #ffffff;">
-                                                <i class="mdfi_hardware_cast_connected"></i>
-                                            </div><h4 class="w-iconbox-title">Chromecast</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Send videos, music, photos, and Live TV to Chromecast with ease.</p>
-                                        </div>
-                                    </div>
-                                </div><div class="one-third animate_afb d1 animate_start">
-                                    <div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #5C6BC0;border-color: #5C6BC0; color: #ffffff;">
-                                                <i class="mdfi_hardware_tv"></i>
-                                            </div><h4 class="w-iconbox-title">Beautiful Displays</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Emby organizes your content into easy and elegant presentations. Your personal media will never look the same.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div><div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #795548;border-color: #795548; color: #ffffff;">
-                                                <i class="mdfi_social_people"></i>
-                                            </div><h4 class="w-iconbox-title">Parental Controls</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Specify parental restrictions for your children, create access schedules, time limits, and more.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div><div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #ed426f;border-color: #ed426f; color: #ffffff;">
-                                                <i class="fa fa-cloud"></i>
-                                            </div><h4 class="w-iconbox-title">Cloud Sync</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Sync your personal media to the cloud for easy backup, archiving, and converting. Store your content in multiple resolutions to enable direct streaming from any device.</p>
-                                        </div>
-                                    </div>
-                                </div><div class="one-third animate_afb d2 animate_start">
-                                    <div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #EF5350;border-color: #EF5350; color: #ffffff;">
-                                                <i class="fa fa-file-movie-o"></i>
-                                            </div><h4 class="w-iconbox-title">Manage Your Media</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Easy web-based tools help you edit metadata and images, search for subtitles, and more.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div><div class="w-iconbox iconpos_left size_medium type_circle color_custom">
-                                        <a class="w-iconbox-link" href="#">
-                                            <div class="w-iconbox-icon" style="background-color: #3481c9;border-color: #3481c9; color: #ffffff;">
-                                                <i class="mdfi_hardware_tv"></i>
-                                            </div><h4 class="w-iconbox-title">Easy DLNA</h4>
-                                        </a>
-                                        <div class="w-iconbox-text">
-                                            <p>Emby automatically detects Dlna devices on your network so that you can easily send content, remote control, and more.</p>
-                                        </div>
-                                    </div><div class="g-hr type_invisible no_icon">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-"></i>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div><div class="g-hr size_big">
-                                <span class="g-hr-h">
-                                    <i class="fa fa-plus"></i>
-                                </span>
-                            </div><div class="g-cols wpb_row offset_wide">
-                                <div class="one-third">
-                                    <div class="wpb_single_image wpb_content_element">
-                                        <div class="wpb_wrapper">
-                                            <img width="1077" height="1077" src="resources/about_manage1.png" class="attachment-full" alt="about_manage1">
-                                        </div>
-                                    </div>
-                                    <div class="wpb_text_column ">
-                                        <div class="wpb_wrapper">
 
-                                            <h4>Web-Based Management</h4>
-                                            <p>Powerful tools to manage your content, users, sharing, security, and more. The Emby Server dashboard is designed for smart phones, tablets, and big screens, allowing you to manage your media anytime, anywhere.</p>
+                    <h3>Updated: January 9, 2017</h3>
 
-                                        </div>
-                                    </div>
-                                </div><div class="one-third">
-                                    <div class="w-slider">
-                                    <style></style><div class="fotorama--hidden"></div><div class="fotorama fotorama1451831914003" id="slider_636814" data-auto="false" data-shadows="false" data-glimpse="0" data-margin="0" data-loop="true" data-swipe="true" data-width="100%" data-autoplay="true" data-arrows="always" data-nav="none" data-transition="slide" data-ratio="675/675"><div class="fotorama__wrap fotorama__wrap--css3 fotorama__wrap--slide fotorama__wrap--no-shadows" style="width: 100%; min-width: 0px; max-width: 100%;"><div class="fotorama__stage" style="width: 334px; height: 334px;"><div class="fotorama__stage__shaft" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px); width: 334px; margin-left: 0px;"><div class="fotorama__stage__frame fotorama__active fotorama__loaded fotorama__loaded--img" style="left: 0px;"><img src="resources/Screenshot_2015-09-28-22-42-49123.png" class="fotorama__img" style="width: 334px; height: 334px; left: 0px; top: 0px;"></div></div><div class="fotorama__arr fotorama__arr--prev fotorama__arr--disabled" tabindex="-1" role="button" disabled="disabled" style="display: none;"></div><div class="fotorama__arr fotorama__arr--next fotorama__arr--disabled" tabindex="-1" role="button" disabled="disabled" style="display: none;"></div><div class="fotorama__video-close"></div></div></div></div></div><div class="g-hr type_invisible size_small">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-star"></i>
-                                        </span>
-                                    </div>
-                                    <div class="wpb_text_column ">
-                                        <div class="wpb_wrapper">
+                    <p>In addition to the Terms of Service and Privacy Policy indicated on the Website, Emby Premier Subscriptions are governed by the following terms:</p>
 
-                                            <h4>Mobile Apps</h4>
-                                            <p>Take your personal home videos, music, and photos with you wherever you go, even offline with Emby Mobile Sync. Emby apps are available for Android, iPhone, iPad, Windows Phone and Windows Tablets.</p>
+                    <p>Subscriptions: Emby offers a subscription which provides access to certain features and services for the term of the subscription ("Subscription"). </p>
 
-                                        </div>
-                                    </div>
-                                </div><div class="one-third">
-                                    <div class="w-slider">
-                                    <style></style><div class="fotorama--hidden"></div><div class="fotorama fotorama1451831914058" id="slider_825967" data-auto="false" data-shadows="false" data-glimpse="0" data-margin="0" data-loop="true" data-swipe="true" data-width="100%" data-autoplay="true" data-arrows="always" data-nav="none" data-transition="slide" data-ratio="675/675"><div class="fotorama__wrap fotorama__wrap--css3 fotorama__wrap--slide fotorama__wrap--no-shadows" style="width: 100%; min-width: 0px; max-width: 100%;"><div class="fotorama__stage" style="width: 334px; height: 334px;"><div class="fotorama__stage__shaft" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px); width: 334px; margin-left: 0px;"><div class="fotorama__stage__frame fotorama__active fotorama__loaded fotorama__loaded--img" style="left: 0px;"><img src="resources/msg-3-0-39164600-1443639466.png" class="fotorama__img" style="width: 334px; height: 334px; left: 0px; top: 0px;"></div></div><div class="fotorama__arr fotorama__arr--prev fotorama__arr--disabled" tabindex="-1" role="button" disabled="disabled" style="display: none;"></div><div class="fotorama__arr fotorama__arr--next fotorama__arr--disabled" tabindex="-1" role="button" disabled="disabled" style="display: none;"></div><div class="fotorama__video-close"></div></div></div></div></div><div class="g-hr type_invisible size_small">
-                                        <span class="g-hr-h">
-                                            <i class="fa fa-star"></i>
-                                        </span>
-                                    </div>
-                                    <div class="wpb_text_column ">
-                                        <div class="wpb_wrapper">
+                    <p>Term: The Subscription(s) are offered on a monthly, annual, or lifetime basis, as selected by You. (the "Term").   If you select automatic renewal at the time of the subscription, then your subscription will be renewed automatically, and thereby the Term will be renewed automatically at the end of the then current Term.</p>
 
-                                            <h4>TV Apps</h4>
-                                            <p>Sit back and enjoy Emby from the living room. Emby apps are available for Android TV, Amazon Fire TV, Chromecast, Roku, Xbox, Home Theater Computers, and more.</p>
+                    <p>Lifetime Term: Lifetime shall mean the entire period in which the respective product, services, and/or features, as indicated below and updated from time to time, are offered for license.</p>
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- Row Backgrounds --><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div>
-                </div>
-            </div><div class="l-submain wpb_row parallax_ver" id="section_678933">
-                <div class="l-submain-img" style="background-image: url(resources/Random-Avatars1.jpg);"></div><div class="l-submain-overlay" style="background-color: rgba(0,0,0,0.1);"></div><div class="l-submain-h g-html i-cf">
-                    <div class="g-cols wpb_row offset_wide">
-                        <div class="full-width animate_afb">
-                            <div class="g-hr type_invisible size_big no_icon">
-                                <span class="g-hr-h">
-                                    <i class="fa fa-"></i>
-                                </span>
-                            </div>
-                            <div class="wpb_text_column ">
-                                <div class="wpb_wrapper">
+                    <p>Annual Term: Annual shall mean a recurring twelve consecutive calendar month period, which term shall end on the immediately preceding date of the thirteenth calendar month after the date enrolled.  The term, if selected, shall automatically renew on the same calendar date of the same calendar date and month in the next calendar year (for example purposes only, if enrolled on April 1 of a given year, the term shall expire on March 31 of the next given year and automatically renew on April 1 of the next given year).</p>
 
-                                    <h3 style="text-align: center;">To get started <a href="download.html"><strong>download Emby Server</strong></a> or <strong><a href="download.html">try an Emby app</a></strong>.</h3>
-                                    <p style="text-align: center;">There are Emby apps available for nearly every device.</p>
+                    <p>Monthly Term: Monthly shall mean a recurring monthly period, which term shall end on the immediately preceding date of the next calendar month after to the date enrolled.  The term, if selected, shall automatically renew on the same calendar date of the following calendar month (for example purposes only, if enrolled on April 1 of a given year, the term shall expire on April 30 of the given month and automatically renew on May 1 of the given year).</p>
 
-                                </div>
-                            </div> <span class="wpb_button align_center"><a href="download.html" class="g-btn color_secondary type_raised size_big"><i class="fa fa-download"></i><span>Download</span><span class="ripple-container"></span></a></span>
-                            <div class="g-hr type_invisible size_big no_icon">
-                                <span class="g-hr-h">
-                                    <i class="fa fa-"></i>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
+                    <p>
+                        Premier Devices:
+                        Emby Premier shall allow for a certain amount of concurrent devices per subscription for access to Premier only features and apps. Unless otherwise indicated on the website, Emby Premier shall be limited to 15 Devices at any given time.
+                    </p>
+
+                    <p>A "Premier Device" is defined as any mobile, computer, or other electronic device which registers with the Emby server with a unique "device id".  The device id is a uniquely generated id that is dependent on both device model, OS version, and application.  Each unique device id shall be counted as a separate Device.  It is possible that a single machine (whether mobile, desktop computer, or otherwise) with multiple applications installed on the machine may register as a new device id per application.  In this event, each unique device id will be counted as separate devices.</p>
+
+                    <p>The Premier Device shall be granted access to Premier applications and services for the Subscription Term.  The system will automatically manage the devices as being granted Premier Device access throughout the Subscription term on a rolling date-of-access basis.  The term for this rolling period is to be determined by the system and may change from time to time without notice.  Any devices in excess of the permitted number or upon expiration of the given Subscription Term may no longer have access to any Premier functionality, apps, or services.</p>
+
+                    <p>Refunds: Any and all fees related to Emby Subscriptions are non-refundable.  However, Emby may in its’ sole discretion, provided refunds on a case by case basis.</p>
+
+                    <p>Termination.  If you cancel your Subscription, you will not be charged again, and your Subscription will last until the end of the then current term.  Upon termination, your access to the Subscription required apps and services may be terminated and/or removed.</p>
+
+                    <p>Please note that certain portions of the product, services, and/or features may require internet connections and/or additional services from Emby, which may be offered separately.</p>
+
+                    <p>Subscriptions provide access to the software and features indicated below (which may be modified, updated, removed from time to time in Emby’s sole discretion). </p>
+
+                    <p>For the Term of your Subscription, access is provided to the following applications, server features and plugins* (some applications, server features and plugins may require accounts and/or services from or with third parties):</p>
+
+                    <p>Apps - The following mobile, TV, and computer applications are available with a Premier Subscription:</p>
+
+                    <ul>
+                        <li>Emby iOS app (current version 1.x - for iPhone and iPad available through Apple App Store)**</li>
+                        <li>Emby Android Mobile app (current version 2.x - for Android-based phones and tablets - NOT TV devices – available through the Google App Store)**</li>
+                        <li>Emby Android TV app (current version 1.x - for Google Nexus Player, Nvidia Shield Console and new model TVs with "Android TV" built in - available through the Google App Store) **</li>
+                        <li>Emby Fire TV app (current version 1.x - for Amazon Fire TV and Fire TV Stick 1st and 2nd gen - available through the Amazon App Store) **</li>
+                        <li>Emby Theater 2.0 (current version 2.x - for Windows computers - available through the Emby website)</li>
+                        <li>Emby Roku channel (current version 2.x - Live TV Guide - available through the Roku Channel Store)***</li>
+                    </ul>
+
+                    <p>Server Plugins – The following server plugins are available with a Premier Subscription (Server plugins are downloadable through the server web interface).***</p>
+
+                    <ul>
+                        <li>CoverArt - Provides enhanced image treatments for media posters.  Allowing you to customize their look and provide additional media information on the cover itself.</li>
+                        <li>Trailers - Provides current streaming trailers from various public sources.</li>
+                        <li>Server Configuration Backup - Provides backup and restoring of most server configuration settings.</li>
+                        <li>Rotten Tomatoes Reviews - Provides reviews of wide-release movies from Rotten Tomatoes.</li>
+                        <li>Genre Cleaner - Allows you to customize the genres on your media items by defining automatic mappings.  e.g. all "Sci-Fi" and "Science Fiction" can be automatically merged into one "Science Fiction" genre.</li>
+                        <li>Podcasts - Provides various public podcast feeds for display and playback within Emby apps.  e.g. Ted Talks</li>
+                    </ul>
+
+                    <p>Server Features – The following Server features are available with a Premier Subscription (through the server web interface).***</p>
+
+                    <ul>
+                        <li>Mobile Sync - Sync your media to your supported Emby mobile app for off-line access and playback.  (Currently supports the Windows 8.1 app)</li>
+
+                        <li>Cloud Sync - Sync your media to your cloud account for easy remote access.  (Currently supports for Google Drive)</li>
+
+                        <li>Folder Sync - Sync your media to any file-system folder providing alternate versions converted for easier playback on some mobile devices.</li>
+
+                        <li>Live TV Series Recordings - Setup recordings to record episodes of shows via the internal Live TV feature of the server.  (Repeat series recordings are only available with Emby Premiere.)****</li>
+
+                        <li>Cinema Mode - Play current trailers and/or custom intros before your video playback for that true "Cinema" experience. Works in conjunction with the Trailers plug-in.</li>
+                    </ul>
+
+                    <p>Applications, plugins and service may also be available from 3rd parties.  Emby has no control over features, costs, services or any restrictions related to these apps.</p>
+
+                    <div>* The list of applications, server plugins and server features provided along with an Emby Subscription may be changed, updated, or modified from time to time.</div>
+                    <div>** These applications are also available for purchase or otherwise without a Subscription.</div>
+                    <div>*** These applications unlock specific features for the application as indicated in the description of the app.</div>
+                    <div>**** Requires access to Live TV broadcasts and TV schedules</div>
                 </div>
             </div>
-            <script type="text/javascript">jQuery(document).ready(function () { jQuery('#section_678933 .l-submain-img').parallax('50%'); });</script><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div>
         </div>
         <!-- /MAIN -->
-
     </div>
     <!-- /CANVAS -->
     <!-- FOOTER -->
@@ -673,7 +508,6 @@
         <div class="l-subfooter at_bottom">
             <div class="l-subfooter-h i-cf">
                 <div class="w-copyright"><p>© <?php echo date("Y"); ?> Emby LLC</p><p style="margin-top:1em;">Emby is designed to help you manage your personal media library, such as home videos and photos.  Please see our <a href="terms.html">terms of use</a> and <a href="privacy.html">privacy policy</a>.  Downloading any Emby software constitutes acceptance of these terms.</p><br><p>Built with <a href="https://www.jetbrains.com/resharper"><img src="resources/resharper_logo-2.png" style="height:20px;vertical-align:middle;margin:0 5px;">Resharper</a></p></div>
-
             </div>
         </div>
 
@@ -710,13 +544,9 @@
     <script type="text/javascript" src="resources/us.core.js"></script>
     <script type="text/javascript" src="resources/us.widgets.js"></script>
     <script type="text/javascript" src="resources/comment-reply.min.js"></script>
-    <script type="text/javascript" src="resources/fotorama.js"></script>
-    <script type="text/javascript" src="resources/jquery.parallax.js"></script>
 
-
-
-    <!-- Dynamic page generated in 0.167 seconds. -->
-    <!-- Cached page generated by WP-Super-Cache on 2016-01-03 09:13:04 -->
+    <!-- Dynamic page generated in 0.131 seconds. -->
+    <!-- Cached page generated by WP-Super-Cache on 2016-01-03 09:52:29 -->
     <!-- Compression = gzip -->
 </body>
 </html>
