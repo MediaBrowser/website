@@ -1,0 +1,774 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0019)https://emby.media/ -->
+<html prefix="og: http://ogp.me/ns#" class="no-touch" lang="en-US">
+<head itemscope itemtype="http://schema.org/Article">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <title>Emby - The open media solution</title>
+    <meta name="description" content="media server for personal streaming movies tv music photos in mobile app or browser for all devices android iOS windows phone appletv androidtv smarttv and dlna">
+    {SOCIALNETWORKS}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <link rel="stylesheet" id="rs-plugin-settings-css" href="resources/settings.css" type="text/css" media="all">
+    <style id="rs-plugin-settings-inline-css" type="text/css">
+        .tp-caption a {
+            color: #ff7302;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out;
+        }
+
+            .tp-caption a:hover {
+                color: #ffa902;
+            }
+
+        .largeredbtn {
+            font-family: "Raleway",sans-serif;
+            font-weight: 900;
+            font-size: 16px;
+            line-height: 60px;
+            color: #fff !important;
+            text-decoration: none;
+            padding-left: 40px;
+            padding-right: 80px;
+            padding-top: 22px;
+            padding-bottom: 22px;
+            background: rgb(234,91,31);
+            background: -moz-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(234,91,31,1)),color-stop(100%,rgba(227,58,12,1)));
+            background: -webkit-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -o-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -ms-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: linear-gradient(to bottom,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f',endColorstr='#e33a0c',GradientType=0 );
+        }
+
+            .largeredbtn:hover {
+                background: rgb(227,58,12);
+                background: -moz-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(227,58,12,1)),color-stop(100%,rgba(234,91,31,1)));
+                background: -webkit-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -o-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -ms-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: linear-gradient(to bottom,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c',endColorstr='#ea5b1f',GradientType=0 );
+            }
+
+        .fullrounded img {
+            -webkit-border-radius: 400px;
+            -moz-border-radius: 400px;
+            border-radius: 400px;
+        }
+
+        .tp-caption a {
+            color: #ff7302;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out;
+        }
+
+            .tp-caption a:hover {
+                color: #ffa902;
+            }
+
+        .largeredbtn {
+            font-family: "Raleway",sans-serif;
+            font-weight: 900;
+            font-size: 16px;
+            line-height: 60px;
+            color: #fff !important;
+            text-decoration: none;
+            padding-left: 40px;
+            padding-right: 80px;
+            padding-top: 22px;
+            padding-bottom: 22px;
+            background: rgb(234,91,31);
+            background: -moz-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(234,91,31,1)),color-stop(100%,rgba(227,58,12,1)));
+            background: -webkit-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -o-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -ms-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: linear-gradient(to bottom,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f',endColorstr='#e33a0c',GradientType=0 );
+        }
+
+            .largeredbtn:hover {
+                background: rgb(227,58,12);
+                background: -moz-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(227,58,12,1)),color-stop(100%,rgba(234,91,31,1)));
+                background: -webkit-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -o-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -ms-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: linear-gradient(to bottom,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c',endColorstr='#ea5b1f',GradientType=0 );
+            }
+
+        .fullrounded img {
+            -webkit-border-radius: 400px;
+            -moz-border-radius: 400px;
+            border-radius: 400px;
+        }
+
+        .tp-caption a {
+            color: #ff7302;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out;
+        }
+
+            .tp-caption a:hover {
+                color: #ffa902;
+            }
+
+        .largeredbtn {
+            font-family: "Raleway",sans-serif;
+            font-weight: 900;
+            font-size: 16px;
+            line-height: 60px;
+            color: #fff !important;
+            text-decoration: none;
+            padding-left: 40px;
+            padding-right: 80px;
+            padding-top: 22px;
+            padding-bottom: 22px;
+            background: rgb(234,91,31);
+            background: -moz-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(234,91,31,1)),color-stop(100%,rgba(227,58,12,1)));
+            background: -webkit-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -o-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -ms-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: linear-gradient(to bottom,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f',endColorstr='#e33a0c',GradientType=0 );
+        }
+
+            .largeredbtn:hover {
+                background: rgb(227,58,12);
+                background: -moz-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(227,58,12,1)),color-stop(100%,rgba(234,91,31,1)));
+                background: -webkit-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -o-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -ms-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: linear-gradient(to bottom,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c',endColorstr='#ea5b1f',GradientType=0 );
+            }
+
+        .fullrounded img {
+            -webkit-border-radius: 400px;
+            -moz-border-radius: 400px;
+            border-radius: 400px;
+        }
+
+        .tp-caption a {
+            color: #ff7302;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out;
+        }
+
+            .tp-caption a:hover {
+                color: #ffa902;
+            }
+
+        .largeredbtn {
+            font-family: "Raleway",sans-serif;
+            font-weight: 900;
+            font-size: 16px;
+            line-height: 60px;
+            color: #fff !important;
+            text-decoration: none;
+            padding-left: 40px;
+            padding-right: 80px;
+            padding-top: 22px;
+            padding-bottom: 22px;
+            background: rgb(234,91,31);
+            background: -moz-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(234,91,31,1)),color-stop(100%,rgba(227,58,12,1)));
+            background: -webkit-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -o-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -ms-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: linear-gradient(to bottom,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f',endColorstr='#e33a0c',GradientType=0 );
+        }
+
+            .largeredbtn:hover {
+                background: rgb(227,58,12);
+                background: -moz-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(227,58,12,1)),color-stop(100%,rgba(234,91,31,1)));
+                background: -webkit-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -o-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -ms-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: linear-gradient(to bottom,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c',endColorstr='#ea5b1f',GradientType=0 );
+            }
+
+        .fullrounded img {
+            -webkit-border-radius: 400px;
+            -moz-border-radius: 400px;
+            border-radius: 400px;
+        }
+
+        .tp-caption a {
+            color: #ff7302;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out;
+        }
+
+            .tp-caption a:hover {
+                color: #ffa902;
+            }
+
+        .largeredbtn {
+            font-family: "Raleway",sans-serif;
+            font-weight: 900;
+            font-size: 16px;
+            line-height: 60px;
+            color: #fff !important;
+            text-decoration: none;
+            padding-left: 40px;
+            padding-right: 80px;
+            padding-top: 22px;
+            padding-bottom: 22px;
+            background: rgb(234,91,31);
+            background: -moz-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(234,91,31,1)),color-stop(100%,rgba(227,58,12,1)));
+            background: -webkit-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -o-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: -ms-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            background: linear-gradient(to bottom,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f',endColorstr='#e33a0c',GradientType=0 );
+        }
+
+            .largeredbtn:hover {
+                background: rgb(227,58,12);
+                background: -moz-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(227,58,12,1)),color-stop(100%,rgba(234,91,31,1)));
+                background: -webkit-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -o-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: -ms-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                background: linear-gradient(to bottom,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c',endColorstr='#ea5b1f',GradientType=0 );
+            }
+
+        .fullrounded img {
+            -webkit-border-radius: 400px;
+            -moz-border-radius: 400px;
+            border-radius: 400px;
+        }
+    </style>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,100italic,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" id="us-motioncss-css" href="resources/motioncss.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-motioncss-responsive-css" href="resources/motioncss-responsive.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-font-awesome-css" href="resources/font-awesome.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-font-mdfi-css" href="resources/font-mdfi.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-magnific-popup-css" href="resources/magnific-popup.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-fotorama-css" href="resources/fotorama.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-style-css" href="resources/style.css" type="text/css" media="all">
+    <link rel="stylesheet" id="us-responsive-css" href="resources/responsive.css" type="text/css" media="all">
+    <link rel="stylesheet" id="theme-style-css" href="resources/style(1).css" type="text/css" media="all">
+    <link rel="stylesheet" id="us_custom_css-css" href="resources/us_zephyr_custom_styles.css" type="text/css" media="all">
+    <link rel="stylesheet" id="ultimate-style-min-css" href="resources/ultimate.min.css" type="text/css" media="all">
+    <link rel="stylesheet" id="bsf-Defaults-css" href="resources/Defaults.css" type="text/css" media="all">
+    <script type="text/javascript" src="resources/jquery.js"></script>
+    <script type="text/javascript" src="resources/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="resources/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="resources/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="resources/ultimate-params.min.js"></script>
+    <!--[if IE 8]><link rel="stylesheet" type="text/css" href="resources/vc-ie8.css" media="screen"><![endif]-->
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="manifest.json">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-TileImage" content="mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="shortcut icon" href="favicon.ico?v=3">
+    <noscript>&lt;style&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;</noscript>
+    <style>
+        /** Ultimate: Media Responsive **/ @media (max-width: 1199px) {
+        }
+
+        @media (max-width: 991px) {
+        }
+
+        @media (max-width: 767px) {
+        }
+
+        @media (max-width: 479px) {
+        }
+        /** Ultimate: Media Responsive - **/
+    </style>
+</head>
+<body class="home page page-id-5391 page-template-default l-body us-theme_zephyr_1-6 wpb-js-composer js-comp-ver-4.5.2 vc_responsive hasGoogleVoiceExt">
+    <!-- CANVAS -->
+    <div class="l-canvas type_wide col_cont headerlayout_extended headerpos_fixed">
+        <!-- HEADER -->
+        <div class="l-header">
+            <div class="l-subheader at_top" style="line-height: 40px; height: 40px;">
+                <div class="l-subheader-h i-cf">
+
+
+                    <div class="w-contacts">
+                        <div class="w-contacts-list">
+                        </div>
+                    </div>
+
+
+
+                    {SOCIALICONS}
+                </div>
+            </div>
+            <div class="l-subheader at_middle" style="line-height: 100px;">
+                <div class="l-subheader-h i-widgets i-cf">
+                    <div class="w-logo ">
+                        <a class="w-logo-link" href="index.html">
+                            <span class="w-logo-img">
+                                <img class="for_default" src="resources/logowhite_1881.png" alt="Emby">
+                            </span>
+                            <span class="w-logo-title"><strong>EMBY</strong></span>
+                        </a>
+                    </div>
+
+
+
+
+                    <div class="w-search">
+                        <span class="w-search-show"><i class="mdfi_action_search"></i></span>
+                        <div class="w-search-form-overlay"></div>
+                        <form class="w-search-form" action="index.html">
+                            <div class="w-search-form-h">
+                                <div class="w-search-form-row">
+                                    <div class="w-search-label">
+                                        <label for="s">Just type and press 'enter'</label>
+                                    </div>
+                                    <div class="w-search-input">
+                                        <input type="text" value="" id="s" name="s">
+                                        <span class="w-search-input-bar"></span>
+                                    </div>
+                                    <div class="w-search-submit">
+                                        <input type="submit" id="searchsubmit" value="Search" class="not-empty">
+                                    </div>
+                                    <div class="w-search-close"> ✕ </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+
+                    <!-- NAV -->
+                    <nav class="w-nav layout_hor animation_mdesign height_auto type_desktop">
+                        <div class="w-nav-control"></div>
+                        <ul class="w-nav-list level_1  hover_none" style="display: block;">
+                            <li id="menu-item-5390" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-5390"><a class="w-nav-anchor level_1" href="about.html"><span class="w-nav-title">ABOUT</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                            <li id="menu-item-4831" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-4831"><a class="w-nav-anchor level_1" href="blog.html"><span class="w-nav-title">BLOG</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                            <li id="menu-item-5028" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-5028"><a class="w-nav-anchor level_1" href="download.html"><span class="w-nav-title">DOWNLOAD</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                            <li id="menu-item-6279" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-6279"><a class="w-nav-anchor level_1" href="premiere.html"><span class="w-nav-title">EMBY PREMIERE</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                            <li id="menu-item-6320" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-6320"><a class="w-nav-anchor level_1" target="_blank" href="http://app.emby.media"><span class="w-nav-title">SIGN IN</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                            <li id="menu-item-5005" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-5005"><a class="w-nav-anchor level_1" href="support.html"><span class="w-nav-title">SUPPORT</span><span class="w-nav-arrow"></span><span class="ripple-container"></span></a></li>
+                        </ul>
+                    </nav><!-- /NAV -->
+
+
+                </div>
+            </div>
+
+        </div>
+        <!-- /HEADER -->
+        <!-- MAIN -->
+        <div class="l-main">
+            <div class="l-submain wpb_row color_primary parallax_ver" id="section_717480" style="padding-top: 140px;">
+                <div class="l-submain-img" style="background-image: url(&quot;resources/Devices-Background-Image.png&quot;); background-position: 50% -84.5645px;"></div><div class="l-submain-h g-html i-cf">
+                    <div class="g-cols wpb_row offset_wide">
+                        <div class="full-width">
+                            <div class="g-hr type_invisible size_big no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div><div class="vc_custom_heading">
+                                <h2 style="font-size: 56px;line-height: 66px;text-align: center;font-family:Roboto;font-weight:100;font-style:normal">
+                                    TAKE YOUR<br>
+                                    <strong>MEDIA ANYWHERE</strong><br>
+                                    WITH EMBY
+                                </h2>
+                            </div><div class="g-hr type_invisible no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div><span class="wpb_button align_center"><a href="about.html" class="g-btn color_primary type_raised size_big"><span>LEARN MORE</span><span class="ripple-container"></span></a></span>
+                            <div class="g-hr type_invisible size_big no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">jQuery(document).ready(function () { jQuery('#section_717480 .l-submain-img').parallax('50%'); });</script><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div><div class="l-submain wpb_row">
+                <div class="l-submain-h g-html i-cf">
+                    <!-- Row Backgrounds --><div class="g-cols wpb_row offset_wide" id="about">
+                        <div class="one-half">
+                            <div class="g-hr type_invisible size_small no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div>
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <h2>Your personal media on any device</h2>
+                                </div>
+                            </div>
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <p class="lead text-white">Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device.</p>
+                                </div>
+                            </div> <div class="g-hr type_invisible size_small no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div><span class="wpb_button align_left"><a href="about.html" class="g-btn color_contrast type_raised"><i class="fa fa-cog"></i><span>Features</span><span class="ripple-container"></span></a></span>
+                            <span class="wpb_button align_left"><a href="download.html" class="g-btn color_white type_raised"><i class="fa fa-download"></i><span>Download</span><span class="ripple-container"></span></a></span>
+                        </div><div class="one-half">
+                            <div class="wpb_single_image wpb_content_element align_center">
+                                <div class="wpb_wrapper">
+                                    <img width="586" height="500" src="resources/Screenshot_2015-09-28-22-42-491.png" class="attachment-full" alt="Screenshot_2015-09-28-22-42-491">
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Row Backgrounds --><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div>
+                </div>
+            </div><div class="l-submain wpb_row color_custom" style="background-color: #1c1f21; color: #c2c4c5;">
+                <div class="l-submain-h g-html i-cf">
+                    <div class="g-cols wpb_row offset_wide">
+                        <div class="full-width">
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <h2 style="text-align: center;">MAKE <span class="highlight highlight_secondary"><strong>YOUR MEDIA</strong></span> EASY</h2>
+                                </div>
+                            </div> <div class="g-hr type_invisible no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div><div class="g-cols wpb_row offset_wide">
+                                <div class="one-third">
+                                    <div class="w-iconbox iconpos_top size_big type_circle color_contrast">
+                                        <a class="w-iconbox-link" href="#">
+                                            <div class="w-iconbox-icon">
+                                                <i class="fa fa-globe"></i>
+                                            </div><h4 class="w-iconbox-title">Easy Access</h4>
+                                        </a>
+                                        <div class="w-iconbox-text">
+                                            <p>Emby Connect makes it easy to enjoy your personal media while away from home. No more fumbling with IP addresses. Just sign in and play.</p>
+                                        </div>
+                                    </div>
+                                </div><div class="one-third">
+                                    <div class="w-iconbox iconpos_top size_big type_circle color_contrast">
+                                        <a class="w-iconbox-link" href="#">
+                                            <div class="w-iconbox-icon">
+                                                <i class="mdfi_device_dvr"></i>
+                                            </div><h4 class="w-iconbox-title">Live TV</h4>
+                                        </a>
+                                        <div class="w-iconbox-text">
+                                            <p>Stream Live TV to any device, manage your DVR, and enjoy your library of recordings.</p>
+                                        </div>
+                                    </div>
+                                </div><div class="one-third">
+                                    <div class="w-iconbox iconpos_top size_big type_circle color_contrast">
+                                        <a class="w-iconbox-link" href="#">
+                                            <div class="w-iconbox-icon">
+                                                <i class="mdfi_social_people"></i>
+                                            </div><h4 class="w-iconbox-title">Manage Your Home</h4>
+                                        </a>
+                                        <div class="w-iconbox-text">
+                                            <p>Easily control content access for your children. Monitor and remote control their sessions as you need to.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div><div class="l-submain wpb_row color_alternate">
+                <div class="l-submain-h g-html i-cf">
+                    <div class="g-cols wpb_row offset_wide">
+                        <div class="full-width">
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <h1 style="text-align: center;">How it Works</h1>
+                                </div>
+                            </div> <div class="g-hr type_short">
+                                <span class="g-hr-h">
+                                    <i class="mdfi_action_grade"></i>
+                                </span>
+                            </div><div class="g-cols wpb_row offset_wide">
+                                <div class="one-third">
+                                    <div class="w-iconbox iconpos_top size_big type_circle color_contrast">
+                                        <a class="w-iconbox-link" href="download.html">
+                                            <div class="w-iconbox-icon">
+                                                <i class="fa fa-globe"></i>
+                                            </div><h4 class="w-iconbox-title">Install the Server</h4>
+                                        </a>
+                                        <div class="w-iconbox-text">
+                                            <p>Get started with our user friendly startup wizard.</p>
+                                        </div>
+                                    </div>
+                                </div><div class="one-third">
+                                    <div class="w-iconbox iconpos_top size_big type_circle color_contrast">
+                                        <a class="w-iconbox-link" href="download.html">
+                                            <div class="w-iconbox-icon">
+                                                <i class="fa fa-download"></i>
+                                            </div><h4 class="w-iconbox-title">Download Apps</h4>
+                                        </a>
+                                        <div class="w-iconbox-text">
+                                            <p>Emby apps are available for all of your favorite devices.</p>
+                                        </div>
+                                    </div>
+                                </div><div class="one-third">
+                                    <div class="w-iconbox iconpos_top size_big type_circle color_contrast">
+                                        <a class="w-iconbox-link" href="#">
+                                            <div class="w-iconbox-icon">
+                                                <i class="fa fa-play-circle"></i>
+                                            </div><h4 class="w-iconbox-title">Enjoy Your Personal Media</h4>
+                                        </a>
+                                        <div class="w-iconbox-text">
+                                            <p>Dive in and explore your media like never before.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div><div class="l-submain wpb_row full_width full_height">
+                <div class="l-submain-h g-html i-cf">
+                    <div class="g-cols wpb_row offset_none type_boxed">
+                        <div class="one-half color_custom" style="background-image: url(resources/shutterstock_1434923111.jpg);">
+                            <div class="vc_empty_space" style="height: 200px"><span class="vc_empty_space_inner"></span></div>
+                        </div><div class="one-half">
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <h2>STOP STRUGGLING. START ENJOYING.</h2>
+                                    <p>
+                                        Emby takes the fuss out of managing your home videos, music, and photos, so that you can spend more time enjoying and less time struggling.
+                                    </p>
+                                </div>
+                            </div> <div class="g-hr type_invisible no_icon">
+                                <span class="g-hr-h">
+                                    <i class="fa fa-"></i>
+                                </span>
+                            </div><div class="g-cols wpb_row offset_wide">
+                                <div class="one-half">
+                                    <div class="w-iconbox iconpos_left size_medium type_default color_primary">
+                                        <span class="w-iconbox-nolink">
+                                            <div class="w-iconbox-icon">
+                                                <i class="mdfi_action_track_changes"></i>
+                                            </div><h4 class="w-iconbox-title">Automatic Organization</h4>
+                                        </span>
+                                        <div class="w-iconbox-text">
+                                            <p>Emby organizes your personal media into rich, beautiful displays.</p>
+                                        </div>
+                                    </div>
+                                </div><div class="one-half">
+                                    <div class="w-iconbox iconpos_left size_medium type_default color_primary">
+                                        <span class="w-iconbox-nolink">
+                                            <div class="w-iconbox-icon">
+                                                <i class="fa fa-wifi"></i>
+                                            </div><h4 class="w-iconbox-title">Stay Notified</h4>
+                                        </span>
+                                        <div class="w-iconbox-text">
+                                            <p>Emby will automatically notify you of server activity based on events and actions that are important to you.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div><div class="l-submain wpb_row full_width full_height">
+                <div class="l-submain-h g-html i-cf">
+                    <div class="g-cols wpb_row offset_none type_boxed">
+                        <div class="one-half">
+                            <div class="w-tabs" id="tabs_564335">
+                                <div class="w-tabs-list items_3"><div class="w-tabs-item with_icon active"><div class="w-tabs-item-h"><span class="w-tabs-item-icon"><i class="fa fa-bullseye"></i></span><span class="w-tabs-item-title">Emby Apps</span></div><span class="ripple-container"></span></div><div class="w-tabs-item with_icon"><div class="w-tabs-item-h"><span class="w-tabs-item-icon"><i class="fa fa-child"></i></span><span class="w-tabs-item-title">Parental Controls</span></div><span class="ripple-container"></span></div><div class="w-tabs-item with_icon"><div class="w-tabs-item-h"><span class="w-tabs-item-icon"><i class="mdfi_hardware_tv"></i></span><span class="w-tabs-item-title">DLNA</span></div><span class="ripple-container"></span></div></div><div class="w-tabs-section with_icon active">
+                                    <div class="w-tabs-section-header"><div class="w-tabs-section-icon"><i class="fa fa-bullseye"></i></div><h5 class="w-tabs-section-title">Emby Apps</h5><div class="w-tabs-section-control"><i class="mdfi_hardware_keyboard_arrow_down"></i></div></div><div class="w-tabs-section-content" style="">
+                                        <div class="w-tabs-section-content-h i-cf">
+                                            <div class="wpb_text_column ">
+                                                <div class="wpb_wrapper">
+                                                    <p>Take your home videos, music, and photos with you wherever you go, even offline with Emby Mobile Sync. Emby mobile apps are available for Android, iPhone, iPad, Windows Phone and Windows Tablets.</p>
+                                                    <p>
+                                                        Or sit back and enjoy Emby from the living room. Emby apps are available for Android TV, Amazon Fire TV, Chromecast, Roku, Xbox, Home Theater Computers, and more.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><div class="w-tabs-section with_icon">
+                                    <div class="w-tabs-section-header"><div class="w-tabs-section-icon"><i class="fa fa-child"></i></div><h5 class="w-tabs-section-title">Parental Controls</h5><div class="w-tabs-section-control"><i class="mdfi_hardware_keyboard_arrow_down"></i></div></div><div class="w-tabs-section-content">
+                                        <div class="w-tabs-section-content-h i-cf">
+                                            <div class="wpb_text_column ">
+                                                <div class="wpb_wrapper">
+                                                    <p>
+                                                        Specify parental restrictions for users, create access schedules, time limits, and more.<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><div class="w-tabs-section with_icon">
+                                    <div class="w-tabs-section-header"><div class="w-tabs-section-icon"><i class="mdfi_hardware_tv"></i></div><h5 class="w-tabs-section-title">DLNA</h5><div class="w-tabs-section-control"><i class="mdfi_hardware_keyboard_arrow_down"></i></div></div><div class="w-tabs-section-content">
+                                        <div class="w-tabs-section-content-h i-cf">
+                                            <div class="wpb_text_column ">
+                                                <div class="wpb_wrapper">
+                                                    <p>
+                                                        Emby automatically detects Dlna devices on your network so that you can easily send content, remote control, and more.<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                        &nbsp;<br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <style>
+                                    #tabs_564335 .w-tabs-list .w-tabs-item:nth-child(1).active ~ .w-tabs-item:last-child::before {
+                                        -webkit-transform: translate3d(-200%,0,0);
+                                        transform: translate3d(-200%,0,0);
+                                    }
+
+                                    #tabs_564335 .w-tabs-list .w-tabs-item:nth-child(2).active ~ .w-tabs-item:last-child::before {
+                                        -webkit-transform: translate3d(-100%,0,0);
+                                        transform: translate3d(-100%,0,0);
+                                    }
+                                </style>
+                            </div>
+                        </div><div class="one-half color_custom" style="background-image: url(resources/msg-3-0-34060800-14437157111.png);">
+                            <div class="vc_empty_space" style="height: 200px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div><div class="l-submain wpb_row full_width full_height color_primary">
+                <div class="l-submain-h g-html i-cf">
+                    <div class="g-cols wpb_row offset_none type_boxed">
+                        <div class="one-half color_custom" style="background-color: #2196F3;">
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <h2>Try Emby Premiere</h2>
+                                    <p>
+                                        Purchase Emby Premiere and receive additional bonus features such as Cover Art, Mobile Sync, Cloud Sync, and free Android apps.
+                                    </p>
+                                </div>
+                            </div> <span class="wpb_button align_left"><a href="premiere.html" class="g-btn color_white type_raised"><i class="mdfi_action_open_in_new"></i><span>Tell Me More</span><span class="ripple-container"></span></a></span>
+                        </div><div class="one-half">
+                            <div class="wpb_text_column ">
+                                <div class="wpb_wrapper">
+
+                                    <h2>Welcome to the Community</h2>
+                                    <p>
+                                        Join the best group of media enthusiasts around and share your experiences with us. We’re all working together to make our media more fun!
+                                    </p>
+                                </div>
+                            </div> <span class="wpb_button align_left"><a href="https://emby.media/community" class="g-btn color_white type_raised"><i class="mdfi_social_people"></i><span>Visit the Community</span><span class="ripple-container"></span></a></span>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="upb_no_bg" data-fadeout="" data-fadeout-percentage="" data-parallax-content="" data-parallax-content-sense="" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="4.5.2" data-theme-support=""></div>
+        </div>
+        <!-- /MAIN -->
+    </div>
+    <!-- /CANVAS -->
+    <!-- FOOTER -->
+    <div class="l-footer">
+        <!-- subfooter: top -->
+        <div class="l-subfooter at_top">
+            <div class="l-subfooter-h g-cols offset_default">
+                <div class="one-third">
+                </div>
+                <div class="one-third">
+                </div>
+                <div class="one-third">
+                </div>
+
+            </div>
+        </div>
+        <!-- subfooter: bottom -->
+        <div class="l-subfooter at_bottom">
+            <div class="l-subfooter-h i-cf">
+                <div class="w-copyright"><p>©<?php echo date("Y"); ?> Emby LLC</p><p style="margin-top:1em;">Emby is designed to help you manage your personal media library, such as home videos and photos.  Please see our <a href="terms.html">terms of use</a> and <a href="privacy.html">privacy policy</a>.  Downloading any Emby software constitutes acceptance of these terms.</p><br><p>Built with <a href="https://www.jetbrains.com/resharper"><img src="resources/resharper_logo-2.png" style="height:20px;vertical-align:middle;margin:0 5px;">ReSharper</a></p></div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /FOOTER -->
+    <a class="w-toplink" href="#"><i class="mdfi_hardware_keyboard_arrow_up"></i></a>
+    <script type="text/javascript">
+        if (window.$us === undefined) window.$us = {};
+        $us.canvasOptions = ($us.canvasOptions || {});
+        $us.canvasOptions.headerDisableStickyHeaderWidth = 300;
+        $us.canvasOptions.headerDisableAnimationWidth = 1000;
+        $us.canvasOptions.headerMainHeight = 100;
+        $us.canvasOptions.headerMainShrinkedHeight = 60;
+        $us.canvasOptions.headerExtraHeight = 40;
+        $us.canvasOptions.firstSubmainPadding = 140;
+
+        $us.navOptions = ($us.navOptions || {});
+        $us.navOptions.mobileWidth = 1000;
+        $us.navOptions.togglable = true;
+
+
+        window.nameFieldError = "Please enter your Name";
+        window.emailFieldError = "Please enter your Email";
+        window.phoneFieldError = "Please enter your Phone Number";
+        window.captchaFieldError = "Please enter the equation result";
+        window.messageFieldError = "Please enter a Message";
+        window.messageFormSuccess = "Thank you! Your message was sent.";
+    </script>
+    <script type="text/javascript" src="resources/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="resources/jquery.magnific-popup.js"></script>
+    <script type="text/javascript" src="resources/jquery.simpleplaceholder.js"></script>
+    <script type="text/javascript" src="resources/waypoints.min.js"></script>
+    <script type="text/javascript" src="resources/imagesloaded.js"></script>
+    <script type="text/javascript" src="resources/us.core.js"></script>
+    <script type="text/javascript" src="resources/us.widgets.js"></script>
+    <script type="text/javascript" src="resources/comment-reply.min.js"></script>
+    <script type="text/javascript" src="resources/jquery.parallax.js"></script>
+
+    <!-- Dynamic page generated in 0.142 seconds. -->
+    <!-- Cached page generated by WP-Super-Cache on 2016-01-03 09:31:46 -->
+    <!-- Compression = gzip -->
+</body>
+</html>
